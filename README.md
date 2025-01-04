@@ -1,2 +1,1 @@
-# cse231-yugioh
-Python program that goes through a csv file of trading cards data and allows the user to perform tasks like searching or viewing card data.
+Yu-Gi-Oh! card data analysis tool to manage, search, and display card datasets with functionalities like card statistics, price analysis, and decklist management.
